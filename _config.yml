@@ -15,9 +15,11 @@ title: Srivishnu's Portfolio # This is what shows up in the tab of the browser
 name: Srivishnu Janakiraman
 headline: Mechanical Engineer
 description: >- # dont remove this line. this will ignore all new lines until the next section
-  Write an awesome intro and discuss your highlights and qualification. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+As a Mechanical Engineering student at NIT Trichy, I bring hands-on research experience in advanced thermal systems, 
+including PCM-integrated cooling technologies and liquid-cooled LSMs, validated through high-fidelity COMSOL and ANSYS simulations.
+My leadership roles in Force Hyperloop and Orbit Rocketry, combined with award-winning work in global Hyperloop competitions 
+underscore my technical depth and innovation in next-generation transport and thermal management.
+
 
 # Place your profile image in /assets/images/profile-image/folder and edit the file name
 profile_image: ./assets/images/profile-image/avatar.jpeg
